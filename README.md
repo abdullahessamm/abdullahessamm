@@ -1,5 +1,3 @@
 <h1 style="color:red"> Hello </h1>
 
-<div align="center">
-  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOSy6c6bALWPnQ62DM-3tMCCdbx9Z1azfLX9fxmsdHcIqQm2Ac-HSbichIEpPTpraxxtbWIKCc10cquhaJWhc-DM-VQozg=w1440-h781" width="30"/>
-</div>
+![IMG_E07137](https://user-images.githubusercontent.com/45853393/229324675-598dccf7-88ee-4fdb-8a16-7f5d2dd0e528.jpg)
