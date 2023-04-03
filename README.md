@@ -23,4 +23,11 @@
     <img src="https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/>
   </a>
 </div>
+<br>
+
+- 🔭 I’m currently freelancer developer
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: islempenywis@gmail.com.
+- 😄 Pronoun: MagicCoder.
+- :video_game: I play video games very often.
 
