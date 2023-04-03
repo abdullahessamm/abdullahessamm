@@ -31,3 +31,23 @@
 - 😄 Pronoun: MagicCoder.
 - :video_game: I play video games very often.
 
+<br>
+
+### :point_right: TECHNOLOGIES
+<br>
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Vue.js Badge](https://img.shields.io/badge/-vue.js-42b883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=42b883)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![PHP Badge](https://img.shields.io/badge/-php-8993be?style=for-the-badge&labelColor=black&logo=php&logoColor=8993be)](#)
+[![Laravel Badge](https://img.shields.io/badge/-laravel-F05340?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F05340)](#)
+
+<br>
+
+### :point_right: LEARNING NOW
+<br>
+
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Python Badge](https://img.shields.io/badge/-python-ffde57?style=for-the-badge&labelColor=black&logo=python&logoColor=ffde57)](#)
+
