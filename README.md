@@ -10,12 +10,14 @@
 <br>
 
 <div align="center">
-  <a href="https://www.facebook.com/abdo.elnegm.779/" target="__blank">
-    <img src="https://img.shields.io/badge/-@abdullahessam-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white&link=https://www.facebook.com/abdo.elnegm.779/"/>
+  <a href="https://www.facebook.com/abdo.elnegm.779/">
+    <img src="https://img.shields.io/badge/-Facebook-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white&link=https://www.facebook.com/abdo.elnegm.779/"/>
+  </a>
+  <a href="https://www.instagram.com/eng.abdullah_essam/">
+    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/eng.abdullah_essam/"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-essam-121a331a1//">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&labelColor=0a66c2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-essam-121a331a1/"/>
   </a>
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45853393/229385603-f76e81d6-378c-4033-8e46-1073027df053.gif"/>
-</p>
 
