@@ -33,6 +33,13 @@
 
 <br>
 
+### :sparkles: MY FAVOURITE FRAMEWORK
+<br>
+
+![vue](https://user-images.githubusercontent.com/45853393/229652245-76ad6ac0-2b16-485a-9f18-b302f8060724.gif)
+
+<br>
+
 ### :point_right: TECHNOLOGIES
 <br>
 
@@ -49,10 +56,3 @@
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Python Badge](https://img.shields.io/badge/-python-ffde57?style=for-the-badge&labelColor=black&logo=python&logoColor=ffde57)](#)
-
-<br>
-
-### :sparkles: ENJOY WORKING WITH THIS FRAMEWORK
-<br>
-
-![vue](https://user-images.githubusercontent.com/45853393/229652245-76ad6ac0-2b16-485a-9f18-b302f8060724.gif)
