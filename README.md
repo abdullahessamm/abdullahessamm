@@ -6,7 +6,9 @@
   , I'm Abdullah
 </h1>
 
-![193411913-1e70d4db-3298-45cd-b21b-4cd357f78287](https://user-images.githubusercontent.com/45853393/229656282-5824cd0c-4ded-4669-8353-6cf9e607e246.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/45853393/229656282-5824cd0c-4ded-4669-8353-6cf9e607e246.gif" />
+</div>
 
 <p align="center"><b>Full stack developer</b> from <b>Cairo</b>, <b>Egypt</b></p>
 
