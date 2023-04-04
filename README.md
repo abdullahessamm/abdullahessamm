@@ -52,7 +52,7 @@
 
 <br>
 
-### :sparkles: MY FAVOURITE FRAMEWORK
+<h4 align="center"> :sparkles: MY FAVOURITE FRAMEWORK </h4>
 <br>
 
 ![vue](https://user-images.githubusercontent.com/45853393/229652245-76ad6ac0-2b16-485a-9f18-b302f8060724.gif)
