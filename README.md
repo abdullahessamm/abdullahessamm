@@ -5,6 +5,9 @@
   </span>
   , I'm Abdullah
 </h1>
+
+![193411913-1e70d4db-3298-45cd-b21b-4cd357f78287](https://user-images.githubusercontent.com/45853393/229656282-5824cd0c-4ded-4669-8353-6cf9e607e246.gif)
+
 <p align="center"><b>Full stack developer</b> from <b>Cairo</b>, <b>Egypt</b></p>
 
 <br>
@@ -51,8 +54,3 @@
 [![Python Badge](https://img.shields.io/badge/-python-ffde57?style=for-the-badge&labelColor=black&logo=python&logoColor=ffde57)](#)
 
 <br>
-
-<h4 align="center"> :sparkles: MY FAVOURITE FRAMEWORK </h4>
-<br>
-
-![vue](https://user-images.githubusercontent.com/45853393/229652245-76ad6ac0-2b16-485a-9f18-b302f8060724.gif)
