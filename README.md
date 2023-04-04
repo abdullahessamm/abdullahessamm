@@ -25,7 +25,7 @@
 </div>
 <br>
 
-- 🔭 I’m currently freelancer developer
+- 🔭 I’m currently a freelancer developer
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: abdoessam.2010@gmail.com.
 - 😄 Pronoun: MagicCoder.
@@ -50,3 +50,9 @@
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Python Badge](https://img.shields.io/badge/-python-ffde57?style=for-the-badge&labelColor=black&logo=python&logoColor=ffde57)](#)
 
+<br>
+
+### :sparkles: ENJOY WORKING WITH THIS FRAMEWORK
+<br>
+
+![vue](https://user-images.githubusercontent.com/45853393/229652245-76ad6ac0-2b16-485a-9f18-b302f8060724.gif)
