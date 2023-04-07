@@ -54,5 +54,6 @@
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Python Badge](https://img.shields.io/badge/-python-ffde57?style=for-the-badge&labelColor=black&logo=python&logoColor=ffde57)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-mongodb-589636?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=589636)](#)
 
 <br>
