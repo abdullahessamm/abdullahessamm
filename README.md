@@ -55,5 +55,6 @@
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Python Badge](https://img.shields.io/badge/-python-ffde57?style=for-the-badge&labelColor=black&logo=python&logoColor=ffde57)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-mongodb-589636?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=589636)](#)
+[![Docker Badge](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#)
 
 <br>
