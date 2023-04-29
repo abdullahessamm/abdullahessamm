@@ -43,8 +43,10 @@
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Vue.js Badge](https://img.shields.io/badge/-vue.js-42b883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=42b883)](#)
+[![React.js Badge](https://img.shields.io/badge/-react-149eca?style=for-the-badge&labelColor=black&logo=react&logoColor=149eca)](#)
 [![PHP Badge](https://img.shields.io/badge/-php-8993be?style=for-the-badge&labelColor=black&logo=php&logoColor=8993be)](#)
 [![Laravel Badge](https://img.shields.io/badge/-laravel-F05340?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F05340)](#)
+[![Lumen Badge](https://img.shields.io/badge/-lumen-f4645f?style=for-the-badge&labelColor=black&logo=lumen&logoColor=f4645f)](#)
 
 <br>
 
